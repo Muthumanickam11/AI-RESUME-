@@ -1,0 +1,17 @@
+John Doe
+Email: john.doe@example.com
+Phone: (555) 123-4567
+
+Summary
+Software engineer with 5+ years of experience in Python, FastAPI, and NLP. Built ML services using Sentence-BERT and deployed containerized microservices on AWS.
+
+Skills
+- Python, FastAPI, SQLAlchemy, PostgreSQL
+- NLP, Transformers, Sentence-BERT, scikit-learn
+- Docker, AWS, CI/CD
+
+Experience
+Acme Corp — Machine Learning Engineer (2021–Present)
+- Developed resume matching service using embeddings and cosine similarity
+- Integrated FastAPI endpoints and optimized model inference
+

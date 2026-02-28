@@ -1,0 +1,7 @@
+{
+  "timestamp": "2025-10-01T16:08:29.922599Z",
+  "resume_path": "ai-resume-matcher/data/sample_resumes/sample_resume.txt",
+  "job_path": "ai-resume-matcher/data/sample_jobs/sample_job.txt",
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "similarity": 0.6977325677871704
+}

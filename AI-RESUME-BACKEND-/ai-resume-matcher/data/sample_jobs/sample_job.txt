@@ -1,0 +1,10 @@
+Job Title: NLP Backend Engineer
+
+We are seeking a backend engineer with strong Python experience to build and maintain NLP services. Responsibilities include building FastAPI endpoints, integrating Sentence-BERT for semantic search, and managing PostgreSQL data models.
+
+Requirements
+- Strong Python and FastAPI
+- Experience with Transformers, Sentence-BERT, scikit-learn
+- PostgreSQL, SQLAlchemy
+- Docker and cloud deployment experience
+
